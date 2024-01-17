@@ -1,8 +1,8 @@
-- 👀 I’m interested in HTML, CSS, JS
+<!-- - 👀 I’m interested in HTML, CSS, JS
 - 🌱 I’m currently learning Backend Development
 - 📫 How to reach me - https://www.linkedin.com/in/rince-mathew
-
-
+ -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
