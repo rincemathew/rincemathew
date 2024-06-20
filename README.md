@@ -23,6 +23,8 @@
 
 <!-- <p align="left">☕️ Challenge accepted! Self-made MERN stack dev here, ready to roll the dice on any digital dilemma. Except ️ spaghetti code - that's a whole different game!</p> -->
 
+![](https://komarev.com/ghpvc/?username=rincemathew&color=brightgreen)
+
 ###
 
 <a href="https://portfolio-git-main-rincemathew.vercel.app/"><h6>Discover More About Me on My Portfolio Website</h6></a>
